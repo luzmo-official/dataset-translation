@@ -10,7 +10,7 @@ To use this project, follow these steps:
   LUZMO_TOKEN=`<the luzmo api token>`<br>
 3. Add a `translation-api-credentials.json` file in the root directory which contains the google service account credentials with which you can use the translate
 4. Install the dependencies by running `npm install`.
-5. Adapt the necessary variables in each js file to have it work for your case
+5. Adapt the necessary variables (`dataset id` and `column ids`) in the index js file to have it work for your case
 6. Run it using: `npm run translate-dataset`.
 
 ## Dependencies
