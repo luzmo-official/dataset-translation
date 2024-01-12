@@ -1,0 +1,17 @@
+# Ignore translation api key
+translation-api-credentials.json
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore linting & formatting config
+.eslintrc
+.eslintignore
+.prettierrc
+jsconfig.json
+
+# Ignore macOS metadata files
+.DS_Store
