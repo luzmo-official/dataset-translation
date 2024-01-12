@@ -1,5 +1,5 @@
-# translation-exploration
-No other purpose than sharing some tests using google translate api & translating a dashboard an a dataset.
+# Dataset translation with Google Cloud Translation API
+Code to programmatically translate data and metadata of a dataset to a language of choice using Google Cloud Translation API and Luzmo.
 
 ## Usage
 To use this project, follow these steps:
